@@ -1,0 +1,1 @@
+This is a good project to follow the steps of buiding app: https://www.learnenough.com/ruby-on-rails-4th-edition-tutorial/toy_app
